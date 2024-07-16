@@ -15,8 +15,8 @@ I'm a passionate software engineer with experience in full-stack web development
 
 ## Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/adarsh-hegde31)
-- [Email](adarshhegde65658@gmail.com)
+- www.linkedin.com/in/adarsh-hegde31
+- adarshhegde65658@gmail.com
 
 ---
 
