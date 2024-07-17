@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Adarsh Hegde!
 
-Welcome to my GitHub profile!
+Welcome!
 
 ## About Me
 
